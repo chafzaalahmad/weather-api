@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by Afzaal Ahmad on 9/18/23.
+  
+*/
+
+"weather_screen_title" = "Weather";
+"empty_state_text" = "Sorry! We could not find weather. Please try again later";
+
+"cities_screen_title" = "Find City";
+"cities_screen_search_filed_place_holder" = "Find City";
